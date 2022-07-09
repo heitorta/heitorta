@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heitorta
-- 👀 I’m interested in Python/R/Ruby/Assembly, Machine Learning, Pentesting and Data Science.
-- 🌱 I’m currently improving my skills in python and in the meanwhile, learning some data science.
-- 💞️ I’m looking to collaborate on all projects related to my interests.
+- 👀 Interested in a lotta stuff but mainly python, low-level languages and pentesting.
+- 🌱 Currently studying Mining Engineering and developing Mining Software at Universidade Federal de Minas Gerais
+- 💞️ I’m looking to collaborate on all projects that span my area of knowledge (mainly data science and pentesting)
 - 📫 How to reach me: heitorulisses@protonmail.com for further contact and details.
 
 <!---
